@@ -1,10 +1,10 @@
 ### Hi, I'm Chidi 👋
-[Website](https://chidiikebujo.com/) 
+[Visit my website](https://chidiikebujo.com/) 
 ![My Photo](chidi_photo.png)
 
 Welcome to my GitHub!
 - I enjoy using existing technology to solve problems.
-- I worked in industries such as Education, Aerospace, and Construction.
+- I worked in industries such as Education, Aerospace, Government/Public sector, and Construction.
 - 👀 I’m interested in solving data-related problems.
 - 💞️ I’m looking to collaborate on AI & machine learning projects.
 - 📫 How to reach me https://www.linkedin.com/in/chidiikebujo/
