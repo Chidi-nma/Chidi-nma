@@ -3,7 +3,8 @@
 ![My Photo](chidi_photo.png)
 
 Welcome to my GitHub!
-- I enjoy working with clients to use existing technology to solve problems.
+- I enjoy using existing technology to solve problems.
+- I worked in industries such as Education, Aerospace, and Construction.
 - 👀 I’m interested in solving data-related problems.
 - 💞️ I’m looking to collaborate on AI & machine learning projects.
 - 📫 How to reach me https://www.linkedin.com/in/chidiikebujo/
