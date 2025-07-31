@@ -1,4 +1,6 @@
 ### Hi, I'm Chidi 👋
+![My Photo](chidi_photo.png)
+
 
 [🌐 Website](https://chidiikebujo.com/) 
 - 👀 I’m interested in solving data-related problems...
